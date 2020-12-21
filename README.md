@@ -12,3 +12,6 @@ Feel free to make a pull request if you want something changed or feel like I'm 
 
 ## What is the HyperText Transfer Protocol?
 
+## Resources
+
+:page_with_curl: [Hack The Box Academy: Web Requests](https://academy.hackthebox.eu/module/details/35)
