@@ -1,8 +1,8 @@
-# Learn About the HyperText Transfer Protocol (HTTP)
-
 Welcome! :wave:
 
 Here you will find a compact overview of the HyperText Transfer Protocol (HTTP). This repository was initially dedicated to my own progress, when I first learned about the HyperText Transfer Protocol. Personally, I find it very useful to have a place where all the resources and knowledge one gains in a specific domain is centralized.
+
+# Learn About the HyperText Transfer Protocol (HTTP)
 
 <img width="100.00%" src="https://github.com/niquet/learn-http/blob/main/http_cover.png">
 
@@ -13,6 +13,7 @@ Feel free to make a pull request if you want something changed or feel like I'm 
 ## Table of Contents
 
 1. [What is the HyperText Transfer Protocol?](#what-is-the-hypertext-transfer-protocol)
+2. [Resources](#resources)
 
 ## What is the HyperText Transfer Protocol?
 
