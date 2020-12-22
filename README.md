@@ -1,6 +1,6 @@
-# HyperText Transfer Protocol :globe_with_meridians:
+# HTTP :globe_with_meridians:
 
-Here you will find a compact overview of the HyperText Transfer Protocol (HTTP). This repository was initially dedicated to my own progress, when I first learned about the HyperText Transfer Protocol. Personally, I find it very useful to have a place where all the resources and knowledge one gains in a specific domain is centralized.
+Here you will find a compact overview of the HyperText Transfer Protocol (HTTP). It is a fundamental protocol, used by the World Wide Web. It allows for browsing the internet as well as navigating to and through our favorite websites.<sup>[1](#importance-of-https-in-web-apps)</sup>
 
 <img width="100.00%" src="https://github.com/niquet/learn-http/blob/main/http_cover.png">
 
@@ -15,8 +15,9 @@ Feel free to make a pull request if you want something changed or feel like I'm 
 
 ## What is the HyperText Transfer Protocol?
 
-The HyperText Transfer Protocol (HTTP) is an application-layer protocol for transmitting hypermedia documents. Designed for communication.<sup>[1](#mdn-web-docs-on-http)</sup> 
+The HyperText Transfer Protocol (HTTP) is an application-layer protocol for transmitting hypermedia documents. Designed for communication.<sup>[2](#mdn-web-docs-on-http)</sup> 
 
 ## Resources
 
-<a name="mdn-web-docs-on-http">1</a>: [https://developer.mozilla.org/en-US/docs/Web/HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP), last visited: 2020-12-23
+<a name="#importance-of-https-in-web-apps">1</a>: [https://cybx.co.uk/2018/12/13/the-importance-of-https-in-web-applications/#:~:text=Hypertext%20Transfer%20Protocol%20(HTTP)%20is,navigate%20to%20our%20favourite%20websites.](https://cybx.co.uk/2018/12/13/the-importance-of-https-in-web-applications/#:~:text=Hypertext%20Transfer%20Protocol%20(HTTP)%20is,navigate%20to%20our%20favourite%20websites.), last visited: 2020-12-22
+<a name="mdn-web-docs-on-http">2</a>: [https://developer.mozilla.org/en-US/docs/Web/HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP), last visited: 2020-12-23
