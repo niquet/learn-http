@@ -1,4 +1,4 @@
-# HyperText Transfer Protocol (HTTP) :globe_with_meridians:
+# HyperText Transfer Protocol :globe_with_meridians:
 
 Here you will find a compact overview of the HyperText Transfer Protocol (HTTP). This repository was initially dedicated to my own progress, when I first learned about the HyperText Transfer Protocol. Personally, I find it very useful to have a place where all the resources and knowledge one gains in a specific domain is centralized.
 
