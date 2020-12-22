@@ -15,8 +15,8 @@ Feel free to make a pull request if you want something changed or feel like I'm 
 
 ## What is the HyperText Transfer Protocol?
 
-The HyperText Transfer Protocol (HTTP) is an application-layer protocol for transmitting hypermedia documents. Designed for communication .[^1] 
+The HyperText Transfer Protocol (HTTP) is an application-layer protocol for transmitting hypermedia documents. Designed for communication.<sup>[1](https://developer.mozilla.org/en-US/docs/Web/HTTP)</sup> 
 
 ## Resources
 
-[^1]: [MDN Web Docs on HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+<a name="mdn-web-docs-http">1</a>: MDN Web Docs on HTTP
