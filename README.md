@@ -8,14 +8,14 @@ This document started as a place I can come back to whenever I need to refresh k
 
 Feel free to make a pull request if you want something changed or feel like I'm missing out on something. For now, happy learning and thanks for stopping by. Leave a star if you're happy with this little side project of mine! :star:
 
-## Table of Contents
+## Contents
 
 1. [What is the HyperText Transfer Protocol?](#what-is-the-hypertext-transfer-protocol)
 2. [Resources](#resources)
 
 ## What is the HyperText Transfer Protocol?
 
-The HyperText Transfer Protocol (HTTP) is an application-layer protocol for transmitting hypermedia documents. Designed for communication.<sup>[2](#mdn-web-docs-on-http)</sup> 
+The HyperText Transfer Protocol (HTTP) is an [application-layer protocol](https://osi-model.com/application-layer/) for transmitting hypermedia documents. Designed for communication.<sup>[2](#mdn-web-docs-on-http)</sup> 
 
 ## Resources
 
