@@ -1,8 +1,6 @@
-Welcome! :wave:
+# Welcome to Learning About the HyperText Transfer Protocol (HTTP) :wave:
 
 Here you will find a compact overview of the HyperText Transfer Protocol (HTTP). This repository was initially dedicated to my own progress, when I first learned about the HyperText Transfer Protocol. Personally, I find it very useful to have a place where all the resources and knowledge one gains in a specific domain is centralized.
-
-# Learn About the HyperText Transfer Protocol (HTTP)
 
 <img width="100.00%" src="https://github.com/niquet/learn-http/blob/main/http_cover.png">
 
@@ -17,6 +15,8 @@ Feel free to make a pull request if you want something changed or feel like I'm 
 
 ## What is the HyperText Transfer Protocol?
 
+The HyperText Transfer Protocol (HTTP) is an application-layer protocol for transmitting hypermedia documents. Designed for communication .[^1] 
+
 ## Resources
 
-:page_with_curl: [Hack The Box Academy: Web Requests](https://academy.hackthebox.eu/module/details/35)
+[^1]: [MDN Web Docs on HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
