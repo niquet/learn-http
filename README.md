@@ -19,6 +19,6 @@ The HyperText Transfer Protocol (HTTP) is an [application-layer protocol](https:
 
 ## Resources
 
-<a name="#importance-of-https-in-web-apps">1</a>: [cybx.co.uk On The Importance Of HTTPS In Web Applications](https://cybx.co.uk/2018/12/13/the-importance-of-https-in-web-applications/#:~:text=Hypertext%20Transfer%20Protocol%20(HTTP)%20is,navigate%20to%20our%20favourite%20websites.), last visited: 2020-12-22
+<a name="importance-of-https-in-web-apps">1</a>: [cybx.co.uk On The Importance Of HTTPS In Web Applications](https://cybx.co.uk/2018/12/13/the-importance-of-https-in-web-applications/#:~:text=Hypertext%20Transfer%20Protocol%20(HTTP)%20is,navigate%20to%20our%20favourite%20websites.), last visited: 2020-12-22
 
 <a name="mdn-web-docs-on-http">2</a>: [MDN Web Docs On HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP), last visited: 2020-12-23
